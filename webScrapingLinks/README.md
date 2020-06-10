@@ -2,7 +2,7 @@ Informações sobre o AMBIENTE de execução.
 Opção A: Executando com o INTERPRETADOR PYTHON.
 1. Para executar o software DEVE TER INSTALADO O INTERPRETADOR da LINGUAGEM
 PYTHON. Você pode executar no terminal do interpretador ou usar o jupyter notebook.
-Obs: Para executar o projeto, descompacte a pasta em seu computador e num local
+Obs: Para executar o projeto, descompacte a pasta em seu computador e em algum local
 que tenha permissão de leitura e escrita de arquivos.
 2. Para jupyter notebook use o arquivo: webscraping.ipynb
  2.1 Usando o terminal (MAC OS, Linux ou Windows) navegue onde as pastas e arquivos se encontram.
